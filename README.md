@@ -10,7 +10,13 @@ Juan Salazar
   
   * GENERAL
   
+  Llevar a cabo de forma experimental, el análisis de mallas en un circuito eléctrico armado de forma física y a su vez, mediante el uso de laboratorio virtual; tomando mediciones de la corriente en cada una de las mallas.
+  
   * ESPECÍFICO
+
+  1. Identificar todas las mallas existentes en un circuito eléctrico y compremder que el análisis de estas, es una técnica que hace uso de la LVK para expresar voltajes en función de corrientes.
+
+  2. MARCO TEÓRICO
 
   * Leyes de Kirchhoff.
 
