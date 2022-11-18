@@ -38,3 +38,12 @@ Análisis de mallas.
   La primera ley dice que la suma de las corrientes que ingresan en un nodo del circuito debe ser igual a la suma de todas las corrientes que se expulsan del nodo.
 
   ![image](https://user-images.githubusercontent.com/116693260/202731404-cbefe619-4000-4d03-846a-70c95ab1c4f9.png)
+
+  3. MATERIAL Y EQUIPO REQUERIDO
+
+  ![image](https://user-images.githubusercontent.com/116693260/202744138-869c75b8-a7c5-4ff5-96f9-738223c4bc39.png)
+
+  4 PROCEDIMIENTO
+
+  ![image](https://user-images.githubusercontent.com/116693260/202743843-5e106108-61ad-4f48-939c-064f5e341bc7.png)
+
