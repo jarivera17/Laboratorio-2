@@ -51,7 +51,7 @@ Análisis de mallas.
 
   ![image](https://user-images.githubusercontent.com/116693260/203068809-f54c2fac-eabb-4b2f-b681-1d0bd230ec41.png)
 
-  ![image](https://user-images.githubusercontent.com/116693260/203069581-d6319ae9-3dd6-4574-b39f-e0eed3bc19cb.png)
+  ![image](https://user-images.githubusercontent.com/116693260/203073939-4642a04b-defe-4f5f-9828-aec66f8b5ff8.png)
 
   5. VIDEO EXPLICATIVO
 
