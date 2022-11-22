@@ -53,6 +53,20 @@ Análisis de mallas.
 
   ![image](https://user-images.githubusercontent.com/116693260/203073939-4642a04b-defe-4f5f-9828-aec66f8b5ff8.png)
 
+  ![image](https://user-images.githubusercontent.com/116693260/203332646-7c0f9011-0a68-426a-ad9e-467293d0d5aa.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/203333938-6f4e244c-9b1e-4906-b2a2-9d025573bc2d.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/203335157-c06f9e00-9b56-4814-86b6-599076d5c6f3.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/203333653-3abe4f9d-13fa-4fb2-8725-d93b6fce622f.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/203333678-bb692a24-8308-4b6e-800b-50e7f1d89d04.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/203333697-dcd95829-b4e8-479c-a482-18dcf456e833.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/203333724-ec6ee325-00df-4c61-aaa0-4ce608afed3f.png)
+
   5. VIDEO EXPLICATIVO
 
   https://uespe-my.sharepoint.com/:v:/g/personal/dxguallpa_espe_edu_ec/EQQUU0D492JOnEp9sk6PUj4BLer-rR17dvCIoKv5rXGIfg?e=DLl0m9
