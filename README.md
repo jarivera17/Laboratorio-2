@@ -59,4 +59,9 @@ Análisis de mallas.
 
   6. CONCLUSIONES
 
+  •	En conclusión, se logro obtener mas conocimiento sobre el reconocimiento de las mallas de un circuito planteado además de seguir mejorando la lectura de un circuito.
+  
+  •	En en síntesis, mediante la realización de un circuito, se puede reforzar los conocimientos vistos en clase, además, mediante se puede analizar e identificar las diversas mallas de un circuito, también, como conclusión se puede adquirir más experiencia sobre la manera correcta de utilizar el instrumento de medición llamado multímetro y los demás materiales.
+  
+  •	Finalmente, se puede apreciar mediante una comparación de los resultados obtenidos en la práctica concuerda con los obtenidos por los resultados analíticos y resultados simulados, y mediante esto saber que la practica ha sido muy eficaz y muy bien realizada.
 
