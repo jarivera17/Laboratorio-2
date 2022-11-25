@@ -44,6 +44,10 @@ Análisis de mallas.
   ![image](https://user-images.githubusercontent.com/116693260/202744138-869c75b8-a7c5-4ff5-96f9-738223c4bc39.png)
 
   4 PROCEDIMIENTO
+  
+  ![image](https://user-images.githubusercontent.com/116693260/204010151-6014f53e-e1ab-4b84-aefd-e2e7592c0851.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/204010182-2262e0ac-d4b8-484e-8f19-296413b378c7.png)
 
   ![image](https://user-images.githubusercontent.com/116693260/202743843-5e106108-61ad-4f48-939c-064f5e341bc7.png)
    
